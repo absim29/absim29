@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bianca</h1>
 <h3 align="center">An aspiring frontend developer from Norway</h3>
 
-<img align="right" alt="coding" width="400" src="https://pixabay.com/illustrations/lofi-girl-computer-laptop-working-8390952/">
+<img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/photo/2023/11/15/20/03/lofi-8390952_1280.png">
 
 - 🌱 I’m currently learning **Javascript**
 - 🔭 I’m currently working on my **Portofolio**
