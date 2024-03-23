@@ -1,4 +1,4 @@
-![MasterHead](https://timelinecovers.pro/facebook-cover/download/cherry-blossom-tree-facebook-cover.jpg)
+![MasterHead](https://cdn.pixabay.com/photo/2023/04/09/19/43/flowers-7912130_960_720.png)
 <h1 align="center">Hi 👋, I'm Bianca</h1>
 <h3 align="center">An aspiring frontend developer from Norway</h3>
 
