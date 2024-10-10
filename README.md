@@ -12,7 +12,7 @@
 ---
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/andreea-bianca-simon-front-end-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
