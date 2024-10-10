@@ -48,9 +48,13 @@
 
 <p align="center">
   <a href="https://bianca-portofolio1.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-%231572B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/My_Portfolio-%231572B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio-1"/>
   </a>
   <br>
+  <a href="https://bianca-s-portofolio.netlify.app" target="_blank">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-%231572B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio-2"/>
+  </a>
   <i>Explore my latest projects, UI experiments, and more!</i>
 </p>
 
