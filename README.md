@@ -46,7 +46,7 @@
 
 <h3 align="center">📂 Projects Showcase 📂</h3>
 
-<p align="center"> <a href="https://bianca-portfolio1.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio_Version_1-%231572B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Version 1"/> </a> <a href="https://bianca-portfolio2.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio_Version_2-%23E34F26?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Version 2"/> </a> </p> <p align="center"> <i>Explore both versions of my portfolio to see how my design and development skills have evolved!</i> </p>
+<p align="center"> <a href="https://bianca-portfolio1.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio_Version_1-%231572B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Version 1"/> </a> <a href="https://bianca-s-portofolio.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio_Version_2-%23E34F26?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Version 2"/> </a> </p> <p align="center"> <i>Explore both versions of my portfolio to see how my design and development skills have evolved!</i> </p>
 
 ---
 
